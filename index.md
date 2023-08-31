@@ -1,6 +1,6 @@
 # Jbarco108's First CS193 Homework
 
-# Things i love about cs 193
+# Things I love about Cs 193
 
 - I love projects
 - I love coding
